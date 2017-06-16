@@ -1,7 +1,7 @@
 {
   "name": "grey-goo-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A dark and colorful syntax theme with readable comments for Atom",
   "homepage": "https://github.com/tommybonobo/grey-goo-syntax#readme",
   "keywords": [
